@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/pizzaweb/static/js/main.ddfd8c1e.chunk.js",
+    "main.js.map": "/pizzaweb/static/js/main.ddfd8c1e.chunk.js.map",
+    "runtime-main.js": "/pizzaweb/static/js/runtime-main.f544d030.js",
+    "runtime-main.js.map": "/pizzaweb/static/js/runtime-main.f544d030.js.map",
+    "static/js/2.8dbe7214.chunk.js": "/pizzaweb/static/js/2.8dbe7214.chunk.js",
+    "static/js/2.8dbe7214.chunk.js.map": "/pizzaweb/static/js/2.8dbe7214.chunk.js.map",
+    "static/js/3.3e75f0fa.chunk.js": "/pizzaweb/static/js/3.3e75f0fa.chunk.js",
+    "static/js/3.3e75f0fa.chunk.js.map": "/pizzaweb/static/js/3.3e75f0fa.chunk.js.map",
+    "index.html": "/pizzaweb/index.html",
+    "static/js/2.8dbe7214.chunk.js.LICENSE.txt": "/pizzaweb/static/js/2.8dbe7214.chunk.js.LICENSE.txt",
+    "static/media/featured3.b7ab0640.jpg": "/pizzaweb/static/media/featured3.b7ab0640.jpg",
+    "static/media/pizza-3.76aa5e98.jpg": "/pizzaweb/static/media/pizza-3.76aa5e98.jpg",
+    "static/media/product-1.be89a03a.jpg": "/pizzaweb/static/media/product-1.be89a03a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f544d030.js",
+    "static/js/2.8dbe7214.chunk.js",
+    "static/js/main.ddfd8c1e.chunk.js"
+  ]
+}
